@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,6 +62,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Eco-friendly custom colors
+				eco: {
+					primary: '#3BB143',     // Bright green
+					secondary: '#68C151',   // Light green
+					accent: '#1E856C',      // Teal green
+					light: '#E8F5E9',       // Very light green
+					dark: '#285238',        // Dark green
+					blue: '#5BC0EB',        // Water blue
+					yellow: '#FFC914',      // Energy yellow
+					gray: '#E0E0E0',        // Neutral gray
 				}
 			},
 			borderRadius: {
@@ -84,11 +96,21 @@ export default {
 					to: {
 						height: '0'
 					}
+				},
+				'float': {
+					'0%, 100%': { transform: 'translateY(0)' },
+					'50%': { transform: 'translateY(-10px)' },
+				},
+				'pulse-green': {
+					'0%, 100%': { opacity: '1' },
+					'50%': { opacity: '0.7' },
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'float': 'float 6s ease-in-out infinite',
+				'pulse-green': 'pulse-green 2s ease-in-out infinite'
 			}
 		}
 	},
