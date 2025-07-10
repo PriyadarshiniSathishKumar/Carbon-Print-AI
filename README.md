@@ -1,8 +1,19 @@
-# Welcome to your Lovable project
+# CARBON PRINT AI
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/cf6d7143-ea67-40c1-b65c-073c2393a4f2
+
+<img width="1893" height="865" alt="image" src="https://github.com/user-attachments/assets/7d1f72e9-ee39-48af-b31e-a36400a930ee" />
+<img width="1404" height="852" alt="image" src="https://github.com/user-attachments/assets/6e80a3d3-6c33-4cfa-ab03-bd3e8d72b8e7" />
+<img width="1882" height="866" alt="image" src="https://github.com/user-attachments/assets/6c3ac1c3-d6da-41b4-8ec1-60deeef1739e" />
+<img width="1886" height="864" alt="image" src="https://github.com/user-attachments/assets/3d06603c-099f-421b-8ade-b81b85536f88" />
+<img width="1891" height="862" alt="image" src="https://github.com/user-attachments/assets/74f27b56-0735-4ab4-a37d-7d1ff340d536" />
+
+
+
+
+
 
 ## How can I edit this code?
 
